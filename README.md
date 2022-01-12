@@ -2,7 +2,7 @@
 
 Example Usage:
 
-(base) matthew@Matthews-MacBook-Air FINALPROJECT copy % python3 driver.py
+(base) matthew@Matthews-MacBook-Air FINALPROJECT copy % python3 driver.py\n
 First file author name: jkr
 Would you like to read this text from a file or from a previous model? [1] for file, [2] for model: 1
 First file: rowlingtest.txt
